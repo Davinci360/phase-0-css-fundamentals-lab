@@ -1,5 +1,66 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0 auto;
+  text-align: center;
 }
+<style>
+  /* `#featured-property` a hard width of 800px and center the text in there. Be
+  sure to keep a little vertical space around the `<p>`s.*/
+  * {
+    box-sizing: border-box;
+  }
+  p#featuredproperty {
+    Color: green
+    width: 800px;
+    text-align: justify;
+    height: 400px;
+  }
+</style>
+
+<style>
+  div {
+  float: left;
+  padding: 15px; 
+  margin:auto;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: content
+  height: 40px;
+  margin-top: 40px;
+  border: thin solid;
+  }
+   
+  div {
+    display: block;
+  }
+  
+    #Lorem {
+    box-sizing: border-box;
+    font-size: 100%;
+    margin:auto;
+    float: inherit;
+    border: 106px solid #ffffff;
+    color: #045211;
+    text-align: center;
+    padding: 50px;
+    line-height: 14px;
+    }
+    <div class="div1">Div 1</div>
+    <div class="div2">Div 2</div>
+    <div class="div3">Div 3</div>
+    <div class="div4">Div 4</div>
+    #bottom {
+      border: 1px solid #ffffff;
+      border-radius: 4px;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px;
+      font-size: 70%;
+      line-height: 14px;
+  }
+  </style>    
+</style>
+
